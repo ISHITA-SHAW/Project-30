@@ -25,4 +25,3 @@ class Stand{
     }
     
 }
-© 2021 GitHub, Inc.
